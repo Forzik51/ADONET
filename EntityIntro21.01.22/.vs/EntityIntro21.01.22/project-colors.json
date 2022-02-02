@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e5a55d6-0128-458e-b9fe-f151bc8a105a": {
+      "ProjectGuid": "7e5a55d6-0128-458e-b9fe-f151bc8a105a",
+      "DisplayName": "EntityIntro21.01.22",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

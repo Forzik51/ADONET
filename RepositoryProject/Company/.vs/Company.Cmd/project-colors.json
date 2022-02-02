@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddaf8a7b-f219-496d-8a34-f24fa20e2940": {
+      "ProjectGuid": "ddaf8a7b-f219-496d-8a34-f24fa20e2940",
+      "DisplayName": "Company.Data",
+      "ColorIndex": 0
+    },
+    "7d592786-5bbd-4bcb-a1ab-e0b6247da09e": {
+      "ProjectGuid": "7d592786-5bbd-4bcb-a1ab-e0b6247da09e",
+      "DisplayName": "Company.Services",
+      "ColorIndex": 1
+    },
+    "7d8e4391-6d86-4fc9-b706-37c86d4c21bb": {
+      "ProjectGuid": "7d8e4391-6d86-4fc9-b706-37c86d4c21bb",
+      "DisplayName": "Company.Cmd",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
